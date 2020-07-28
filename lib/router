@@ -1,0 +1,5 @@
+
+class Router {
+  static final String splashscreen = '/';
+  static final String main = '/todo';
+}
